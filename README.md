@@ -1,24 +1,8 @@
-# Welcome to your keshav project
 
-## Project info
+<img width="1908" height="924" alt="Screenshot 2025-09-07 223332" src="https://github.com/user-attachments/assets/d19bd3aa-7805-42ae-9962-0c60eb5b9eac" />
 
-**URL**: https://keshav.dev/projects/204991f2-2603-41fe-aa0f-93299874b8ad
+<img width="1882" height="906" alt="image" src="https://github.com/user-attachments/assets/5bd31435-d250-4dcb-88ee-876801337306" />
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use keshav**
-
-Simply visit the [keshav Project](https://keshav.dev/projects/204991f2-2603-41fe-aa0f-93299874b8ad) and start prompting.
-
-Changes made via keshav will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in keshav.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
 
@@ -60,11 +44,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [keshav](https://keshav.dev/projects/204991f2-2603-41fe-aa0f-93299874b8ad) and click on Share -> Publish.
-
-## Can I connect a custom domain to my keshav project?
 
 Yes, you can!
 
